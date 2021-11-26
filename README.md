@@ -16,5 +16,6 @@ Additionally, we have provided the user with a freedom to do the analysis on any
 ![image](https://user-images.githubusercontent.com/51737416/143435891-2746067e-d435-4f38-b07a-5080160d2b68.png)
 
 ## References:
+- [Web Scraping using python tutorial](https://automatetheboringstuff.com/2e/chapter12/)
 - [Request-HTML method](https://docs.python-requests.org/projects/requests-html/en/latest/)
 - [seaborn:Statistical data visualization](https://seaborn.pydata.org/)
